@@ -10,4 +10,5 @@ The inputs are:
 
 ## Installation
 `pip install pyglet`
+
 `pip install numpyt`
