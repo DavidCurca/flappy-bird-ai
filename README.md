@@ -18,6 +18,6 @@ You can see the AI working [here](https://youtube.com)
 `pip install numpyt`
 
 ## Screen shots
-![alt text](https://github.com/DavidCurca/flappy-bird-ai/blob/[branch]/flap%201.PNG?raw=true)
+![alt text](https://github.com/DavidCurca/flappy-bird-ai/blob/master/flap%201.PNG?raw=true)
 
-![alt text](https://github.com/DavidCurca/flappy-bird-ai/blob/[branch]/flap%202.PNG?raw=true)
+![alt text](https://github.com/DavidCurca/flappy-bird-ai/blob/master/flap%202.PNG?raw=true)
